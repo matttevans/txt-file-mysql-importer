@@ -18,7 +18,7 @@ Move/Copy `main.py` to the same directory as your `.txt` files.
   - Strip all whitespace
 * Create a new table for each file
   - Example:
-    - `website1.com.txt {12,000}[NOHASH].txt` becomes `website1_com`
+    - `website1.com {12,000}[NOHASH].txt` becomes `website1_com`
 * Optionally delete files when completed.
 
 ## Example 
